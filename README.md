@@ -8,7 +8,7 @@ It's easy to get started! Simply run [Storyblok's field plugin CLI](https://www.
 npx @storyblok/field-plugin-cli@latest create
 ```
 
-For more details, please refer to the [documentation](https://www.storyblok.com/docs/plugins/field-plugins/introduction).
+For more details, please refer to the [documentation](https://www.storyblok.com/docs/plugins/field-plugins).
 
 ## Contributors
 
